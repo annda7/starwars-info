@@ -1,0 +1,23 @@
+{
+  "name": "starwars-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annda7/starwars-info.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annda7/starwars-info/issues"
+  },
+  "homepage": "https://github.com/annda7/starwars-info#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
